@@ -105,8 +105,8 @@
             </configuration>
             <executions>
                 <execution>
-                    <id>verify</id>
-                    <phase>verify</phase>
+                    <id>validate</id>
+                    <phase>validate</phase>
                     <goals>
                         <goal>check</goal>
                     </goals>
